@@ -18,6 +18,7 @@ It usually works better using WI-FI and more experienced.
 * CSS - to style web
 * HTML - structure web page
 * JQUERY - gives live links to the project
+* markdown
 ## contacts
 * If need to have contact of the Delani studio it can be done through email, facebook, twitter, etc
 ### License
